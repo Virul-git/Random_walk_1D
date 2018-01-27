@@ -5,7 +5,7 @@ Simulation of diffusion in one dimension
 ![pic](2d_diffusion.png)
 
 The step size is taken constant and equal to one.
-The code also show how the particles deviate from the center
+The code also shows how the particles deviate from the center
 
 ![pic](diffusion_small_n.png)
 
